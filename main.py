@@ -1,4 +1,4 @@
-import WordsApi
+from api.WordsApi import WordsApi
 from factories.PlayerFactory import PlayerFactory
 from controllers.LobbyController import LobbyController
 from controllers.GameController import GameController
@@ -6,7 +6,7 @@ from model.GameState import GameState
 from enums.GameStepsEnum import GameStepsEnum
 
 if __name__ == '__main__':
-    words_api = WordsApi.WordsApi()
+    words_api = WordsApi()
     wordlist = words_api.get_wordlist()
     game_state = GameState()
     game_state.set_wordlist(wordlist)
