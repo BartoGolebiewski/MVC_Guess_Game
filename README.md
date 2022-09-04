@@ -1,5 +1,10 @@
-<div style="border-radius: 16px; padding: 24px; background-color: #F9A">
-    <h3 style="line-height: 24px; font-weight: 800;background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text; color: transparent;">
-      Gra w zgadywanie, slowo pobierane przez API, nastepnie gramy, mądrzejszy wygrywa :)
-    </h3>
-</div>
+
+### What is this:
+Guessing game, word taken by API, then we play, smarter wins :)
+
+### Demo:
+https://replit.com/@BartoGolebiewsk/MVCGuessGame
+
+![alt text](https://www.wykop.pl/cdn/c3201142/comment_1586606255d37KNn0mIIlBc3qIXjDTO7.jpg)
+
+Copyright 2022 Bartłomiej Gołębiewski
